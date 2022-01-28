@@ -1,0 +1,25 @@
+h1 {
+  color: #3D3D3D;
+  margin-left:10%;
+  font-family: verdana;
+}
+
+p {
+  color: #3D3D3D;
+  margin-left:10%;
+  font-family: garamond;
+  font-size: 60%;
+}
+
+p1 {
+  text-align: center;
+  color: #3D3D3D;
+  font-family: garamond;
+  font-size: 120%;
+}
+
+#crimeMap { 
+  height: 450px; 
+  margin-left: 10%;
+  width: 80%;
+}
